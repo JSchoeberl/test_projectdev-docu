@@ -1,5 +1,10 @@
-Template for the Read the Docs tutorial
+My great project
 =======================================
+
+Here is the docu 
+
+# Introduction
+
 
 This GitHub template includes fictional Python library
 with some basic Sphinx docs.
