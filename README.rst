@@ -3,7 +3,8 @@ My great project
 
 Here is the docu 
 
-# Introduction
+Introduction
+----
 
 
 This GitHub template includes fictional Python library
